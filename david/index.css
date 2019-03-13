@@ -1,0 +1,33 @@
+.wheel-part {
+	background-color: green;
+	width : 100px;
+	height: 100px;
+	border-radius: 100%;
+  	margin: 10px;
+  	padding: 20px;
+  	font-size: 50px;
+  	text-align: center;
+  	color: white;
+  	display: inline-block;
+}
+
+.wheel-part-highlight {
+	background-color: red;
+	width : 100px;
+	height: 100px;
+	border-radius: 100%;
+  	margin: 10px;
+  	padding: 20px;
+  	font-size: 50px;
+  	text-align: center;
+  	color: white;
+  	display: inline-block;
+}
+
+.wheel {
+	display: flex;
+}
+
+.new-line {
+	display: block !important;
+}
